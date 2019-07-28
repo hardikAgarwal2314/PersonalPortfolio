@@ -2248,9 +2248,8 @@ a.active {
     border: 2px solid red;
 }
 
-.box input:invalid ~ label,
-.box textarea:invalid ~ label {
-    display: none;
+.box input:focus:invalid ~ label,
+.box textarea:focus:invalid ~ label {
 }
 
 .box input:invalid,
