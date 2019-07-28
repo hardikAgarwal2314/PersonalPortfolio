@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6a022d4b-c1d0-41ac-ae5a-121c5e022b3b" name="Default Changelist" comment="" />
+    <list default="true" id="6a022d4b-c1d0-41ac-ae5a-121c5e022b3b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -70,6 +73,7 @@
           <entry key="css" value="285" />
           <entry key="html" value="1841" />
           <entry key="js" value="279" />
+          <entry key="php" value="44" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
@@ -77,6 +81,7 @@
           <entry key="CSS" value="285" />
           <entry key="HTML" value="1841" />
           <entry key="JavaScript" value="279" />
+          <entry key="PHP" value="44" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -88,6 +93,7 @@
           <entry key="jpeg" value="1" />
           <entry key="jpg" value="12" />
           <entry key="js" value="7" />
+          <entry key="php" value="1" />
           <entry key="png" value="2" />
           <entry key="scss" value="1" />
           <entry key="ts" value="2" />
@@ -99,6 +105,7 @@
           <entry key="HTML" value="1" />
           <entry key="Image" value="23" />
           <entry key="JavaScript" value="7" />
+          <entry key="PHP" value="1" />
           <entry key="PLAIN_TEXT" value="1" />
           <entry key="SCSS" value="1" />
           <entry key="TypeScript" value="2" />
@@ -189,11 +196,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="2242" column="18" lean-forward="true" selection-start-line="2242" selection-start-column="18" selection-end-line="2242" selection-end-column="18" />
+            <state relative-caret-position="33">
+              <caret line="2247" column="26" selection-start-line="2247" selection-start-column="26" selection-end-line="2247" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="43" selection-start-column="43" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -202,7 +218,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>colorlib-about</find>
       <find>services</find>
       <find>img</find>
       <find>.services {</find>
@@ -232,11 +247,15 @@
       <find>contactDiv</find>
       <find>fadeIn</find>
       <find>colorlib-i</find>
+      <find>rgba(255, 255, 255, 0.92);</find>
     </findStrings>
     <replaceStrings>
       <replace>let</replace>
       <replace>formdiv</replace>
     </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -245,6 +264,7 @@
         <option value="$PROJECT_DIR$/form-submission-handler.js" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/index.php" />
       </list>
     </option>
   </component>
@@ -259,6 +279,7 @@
     <option name="width" value="1280" />
     <option name="height" value="677" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -270,11 +291,6 @@
             <path>
               <item name="hardik" type="b2602c69:ProjectViewProjectNode" />
               <item name="hardik" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hardik" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hardik" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -337,18 +353,17 @@
       <workItem from="1563851009923" duration="763000" />
       <workItem from="1563873063845" duration="2803000" />
       <workItem from="1563988296704" duration="16936000" />
-      <workItem from="1564226659107" duration="21731000" />
+      <workItem from="1564226659107" duration="22587000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="92200000" />
+    <option name="totallyTimeSpent" value="93056000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2494043" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2494043" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -359,8 +374,8 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.48219177" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -370,11 +385,13 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.php" />
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/images/blog-3.jpg" />
     <entry file="file://$PROJECT_DIR$/images/blog-4.jpg" />
     <entry file="file://$PROJECT_DIR$/images/cover_bg_1.jpg" />
     <entry file="file://$PROJECT_DIR$/images/img-1.jpg" />
@@ -599,8 +616,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="2242" column="18" lean-forward="true" selection-start-line="2242" selection-start-column="18" selection-end-line="2242" selection-end-column="18" />
+        <state relative-caret-position="33">
+          <caret line="2247" column="26" selection-start-line="2247" selection-start-column="26" selection-end-line="2247" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="43" selection-start-column="43" selection-end-column="43" />
         </state>
       </provider>
     </entry>
